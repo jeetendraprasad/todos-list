@@ -3,3 +3,6 @@ Steps
 
 1> npm i -g create-react-app
 2> create-react-app todos-list
+3> Installed prettier extension in vscode
+4> Added bootstrap css and js script
+5> npm start to see application in browser
